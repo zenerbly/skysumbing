@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html class="sp-html 
+			sp-seedprod sp-h-full">
+<head>
+
+<meta property="og:url" content="https://cuanbisnis.online/wp-content/uploads/elementor/css/https:/cuanbisnis.online/wp-content/uploads/2022/05/1200px-Sindoro_sumbing.jpg" />
+<meta property="og:type" content="website" />
+
+<meta name="twitter:card" content="summary" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel='stylesheet' id='seedprod-css-css' href='https://cuanbisnis.online/wp-content/plugins/seedprod-coming-soon-pro-5/public/css/tailwind.min.css?ver=6.9.0.1' type='text/css' media='all' /> <link rel='stylesheet' id='seedprod-fontawesome-css' href='https://cuanbisnis.online/wp-content/plugins/seedprod-coming-soon-pro-5/public/fontawesome/css/all.min.css?ver=6.9.0.1' type='text/css' media='all' />
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:400,700&#038;display=swap">
+
+<style>#sp-page{color:#000}#sp-page .sp-header-tag-h1,#sp-page .sp-header-tag-h2,#sp-page .sp-header-tag-h3,#sp-page .sp-header-tag-h4,#sp-page .sp-header-tag-h5,#sp-page .sp-header-tag-h6{color:#000}#sp-page h1,#sp-page h2,#sp-page h3,#sp-page h4,#sp-page h5,#sp-page h6{color:#000;font-family:'Inter';font-weight:700;font-style:normal}#sp-page a{color:#f9d82f}#sp-page a:hover{color:#eec807}#sp-page .btn{background-color:#f9d82f}body{background-color:#fff;background-image:}</style>
+
+<script>
+
+var seedprod_api_url = "https://cuanbisnis.online/wp-json/seedprod/v1/";
+		var seeprod_enable_recaptcha = 0;
+	
+</script>
+<script src="https://cuanbisnis.online/wp-content/plugins/seedprod-coming-soon-pro-5/public/js/sp-scripts.min.js" defer></script>
+<script src="https://cuanbisnis.online/wp-content/plugins/seedprod-coming-soon-pro-5/public/js/dynamic-text.js" defer></script>
+<script src="https://cuanbisnis.online/wp-includes/js/jquery/jquery.js"></script>
+</head>
+<body data-rsssl=1 class="spBgcover sp-h-full sp-antialiased sp-bg-slideshow">
+<script>
+		window.twttr = (function (d,s,id) {
+			var t, js, fjs = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+			js.src="https://platform.twitter.com/widgets.js";
+			fjs.parentNode.insertBefore(js, fjs);
+			return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+		}(document, "script", "twitter-wjs"));
+	</script>
+<div id="sp-page" class="spBgcover sp-content-4" style="background-color: rgb(255, 255, 255); font-family: Inter, sans-serif; font-weight: 400;"><section id="sp-y2fpvk" class="sp-el-section " style="width: 100%; max-width: 100%; padding: 10px;"><div id="sp-ds6tjq" class="sp-el-row sm:sp-flex sp-w-full  sp-m-auto sp-justify-between" style="padding: 0px; width: auto; max-width: 1000px;"><div id="sp-ko7yf0" class="sp-el-col  sp-w-full" style="width: calc(56% - 0px);"><div id="sp-wmvxu4" class="sp-spacer" style="height: 60px;"></div><figure id="sp-l14upe" class="sp-image-wrapper sp-el-block" style="margin: 0px; text-align: left;"><span><img src="https://assets.seedprod.com/404-image-left.png" alt="" class="sp-image-block-l14upe" style="width: 80%;"></span></figure><h1 id="sp-g3woiq" class="sp-css-target sp-el-block sp-headline-block-g3woiq sp-type-header" style="text-align: left; margin: 0px;">We can't find the page you are looking for.</h1><div id="sp-ekbuka" class="sp-css-target sp-text-wrapper sp-el-block sp-text-wrapper-ekbuka" style="margin: 0px; text-align: left;"><p>This page has been relocated or removed.</p></div><div id="sp-hcezt8" class="sp-spacer" style="height: 27px;"></div><div class="sp-button-wrapper sp-el-block" style="margin: 0px; text-align: left;"><a href="" id="sp-xuoihx" target="" rel="noopener" class="sp-button sp-css-target sp-text-center sp-inline-block sp-leading-none sp-button-xuoihx" style="font-size: 15px; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; background-color: rgb(249, 216, 47); color: rgb(0, 0, 0); width: auto; padding: 8px 12px; border-radius: 4px;"><i class="sp-mr-2 fas fa-long-arrow-alt-left"></i><span>Go Home</span></a></div></div><div id="sp-mbsvxy" class="sp-el-col  sp-w-full" style="width: calc(44% - 0px);"><div id="sp-zozjff" class="sp-spacer" style="height: 69px;"></div><figure id="sp-c6ugs0" class="sp-image-wrapper sp-el-block" style="margin: 0px; text-align: right;"><span><img src="https://assets.seedprod.com/right-shape-image-1.png" alt="" class="sp-image-block-c6ugs0" style="width: 80%;"></span></figure></div></div></section></div>
+<div class="tv">
+<div class="screen mute" id="tv"></div>
+</div>
+<script>
+	
+	var sp_subscriber_callback_url = "https:\/\/cuanbisnis.online\/wp-admin\/admin-ajax.php?action=seedprod_pro_subscribe_callback&_wpnonce=af9cc660b0";
+	if(sp_subscriber_callback_url.indexOf(location.hostname) === -1 ){
+		sp_subscriber_callback_url = "\/wp-admin\/admin-ajax.php?action=seedprod_pro_subscribe_callback&_wpnonce=af9cc660b0";
+	}
+
+
+
+	
+	var sp_is_mobile = false;	
+</script>
+</body>
+</html>
